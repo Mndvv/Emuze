@@ -1,0 +1,39 @@
+{
+  "name": "emuze",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc"
+  },
+  "author": "Mndvv",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "@distube/soundcloud": "^2.0.4",
+    "@distube/spotify": "^2.0.2",
+    "@distube/yt-dlp": "^2.0.1",
+    "discord-ytdl-core": "^5.0.4",
+    "discord.js": "^14.16.3",
+    "distube": "^5.0.4",
+    "dotenv": "^16.4.7",
+    "ffmpeg-static": "^5.2.0",
+    "formidable": "^3.5.2",
+    "install": "^0.13.0",
+    "node-fetch": "^3.3.2",
+    "npm": "^10.9.2",
+    "play-dl": "^1.9.7",
+    "sodium-native": "^4.3.1",
+    "ytdl-core": "^4.11.5",
+    "ytmusic-api": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "types": "node_modules/ytmusic-api/dist/index.d.ts"
+}
