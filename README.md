@@ -24,8 +24,8 @@ Welcome to the Discord Music Bot project! This bot allows users to create a musi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/discord-music-bot.git
-    cd discord-music-bot
+    git clone https://github.com/Mndvv/emuze.git
+    cd emuze
     ```
 
 2. Install dependencies:
