@@ -22,14 +22,12 @@ import {
   VoiceConnection 
 } from '@discordjs/voice';
 
-
 export interface MusicTrack {
   title: string;
   url: string;
   requester: string;
-  duration: string;
+  duration?: string;
 }
-
 
 export interface ServerQueue {
   textChannel: any;
