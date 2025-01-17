@@ -21,11 +21,13 @@
     "dotenv": "^16.4.7",
     "ffmpeg-static": "^5.2.0",
     "formidable": "^3.5.2",
+    "get-audio-duration": "^4.0.1",
     "install": "^0.13.0",
     "node-fetch": "^3.3.2",
     "npm": "^11.0.0",
     "play-dl": "^1.9.7",
     "sodium-native": "^4.3.1",
+    "string-similarity-js": "^2.1.4",
     "ytdl-core": "^4.11.5",
     "ytmusic-api": "^5.2.2"
   },
