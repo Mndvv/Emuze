@@ -40,7 +40,7 @@ Welcome to the Discord Music Bot project! This bot allows users to create a musi
 
 4. Start the bot:
     ```bash
-    npm run start
+    npm run dev
     ```
 
 ## Usage
