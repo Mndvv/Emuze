@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact the project maintainer.
+For any questions or suggestions, please open an issue or contact the project maintainer through our social media.
