@@ -24,7 +24,7 @@
     "get-audio-duration": "^4.0.1",
     "install": "^0.13.0",
     "node-fetch": "^3.3.2",
-    "npm": "^11.3.0",
+    "npm": "^11.4.1",
     "play-dl": "^1.9.7",
     "sodium-native": "^5.0.2",
     "string-similarity-js": "^2.1.4",
